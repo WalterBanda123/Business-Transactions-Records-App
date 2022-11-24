@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sales Record</string>
+    <string name="product_quantiry">Quantity sold</string>
+    <string name="product_price">Product price</string>
+    <string name="amount_paid">Amount paid</string>
+    <string name="change_left">Change_left</string>
+    <string name="product_name">Product Name</string>
+    <string name="quantity_sold">Quantity Sold</string>
+    <string name="cost_of_product" />
+    <string name="amount_received">Amount Received</string>
+</resources>
